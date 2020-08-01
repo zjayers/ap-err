@@ -2,18 +2,18 @@
   "name": "ap-err",
   "version": "1.0.0",
   "description": "",
-  "main": "ap-err.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/zjayers/ap-err#readme",
+  "bugs": {
+    "url": "https://github.com/zjayers/ap-err/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zjayers/ap-err.git"
   },
-  "author": "Zach Ayers",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zjayers/ap-err/issues"
-  },
-  "homepage": "https://github.com/zjayers/ap-err#readme"
+  "author": "Zach Ayers",
+  "main": "ap-err.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
